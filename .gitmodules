@@ -1,0 +1,3 @@
+[submodule "src/wpfui"]
+	path = src/wpfui
+	url = git@github.com:help-14/wpfui.git
